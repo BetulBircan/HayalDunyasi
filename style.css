@@ -1,0 +1,83 @@
+/* Sayfaların arka plan renklerini verme */
+body   
+{
+    background-color:#FAEBD7;
+}
+
+/* h1 başlığını ortalama */
+h1
+{
+    text-align:center;
+}
+
+/* nav etiketindeki anasayfa,türkedebiyatı,psikoloji gibi yönlendirme sekmelerini ortaya hizalama */
+nav
+{
+    text-align:center;  
+}
+
+/* Kategorilerine göre ayrılmış kitapların listelenmesi için yazılan sırasız liste için css kodları:listelerin başında noktalama işareti olmaması,yazının ortalanması ve yazı sığmadığı zaman alt satıra geçmesi*/
+ul
+{
+    list-style-type:none;
+    text-align:center;
+    list-style-position:inside;
+    word-wrap:break-word; 
+    /* Uzun kelimelerin bir sonraki satıra ayrılabilmesine ve sarılabilmesine izin verir: */  
+}
+
+/*En Başa Dön yazısının ortaya hizalanması  */
+footer
+{
+    text-align:center;
+}
+
+/* Kategorilerdeki kitapların başlığının rengi ve ortaya hizalanması */
+h3
+{
+    text-align: center;
+    color:rgb(75, 35, 43);
+}
+
+/* Kitap içeriğinin hakkında bilgiler yazılması için yazılan p etiketi için yazılan css kodları: */
+p
+{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    color: rgb(24, 34, 34);
+    text-align:justify;
+}
+
+/* link özelliğineki a etiketi için yazılan css kodları: */
+a
+{
+    
+    padding: 5px;
+    color:rgb(34, 28, 28);
+    border:1px solid rgb(78, 69, 69)
+}
+
+/* Bilgisayar kategorisindeki içindekiler bilgisi için oluşturulan liste için oluşturulan css kodları: */
+.listStyle
+{
+    margin: auto;
+    width: 50%;
+    border: 0px solid;
+    padding: 10px;
+    color: rgb(20, 29, 29);
+    text-align:justify;
+    list-style-type:disc;
+}
+
+/* index.html ve wattpadönerileri.html sayfalarının en başındaki p etiketi için oluşturulan class etiketi */
+.pStyle
+{
+    margin: auto;
+    width: 85%;
+    border: 0px solid;
+    padding: 10px;
+    color: rgb(20, 29, 29);
+    text-align:justify;
+    
+}
