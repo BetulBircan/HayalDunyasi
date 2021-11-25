@@ -39,5 +39,5 @@ Diğer bütün kategoriler için aynı css kodları uygulandı. Kitap içerikler
 Son olarak da oluşturulan CSS kodlarının sayfalarda işlenmesi için her sayfada HTML içerisinde <head></head> etiketi içerisine:
 `<link rel="stylesheet" href="style.css">
 `
-kodu eklendi
+kodu eklendi.
 
