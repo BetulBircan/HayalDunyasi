@@ -41,3 +41,4 @@ Son olarak da oluşturulan CSS kodlarının sayfalarda işlenmesi için her sayf
 `
 kodu eklendi.
 
+Daha fazla ayrıntılı ve siteyi daha detaylı incelemek isterseniz: [https://hayaldunyasi.netlify.app](https://hayaldunyasi.netlify.app) linkinden inceleyebilirsiniz.
